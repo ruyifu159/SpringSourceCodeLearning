@@ -1,0 +1,3 @@
+org.springframework.context.ApplicationContext接口负责实例化、配置和组装beans. 容器通过读取configuration metadata来获取那些对象需要实例化、配置和装配的说明。
+configuration metadata可以用XML、Java注解或者Java代码来表示。
+![blockchain](https://docs.spring.io/spring/docs/4.3.23.RELEASE/spring-framework-reference/htmlsingle/images/container-magic.png)
